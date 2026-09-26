@@ -1,5 +1,11 @@
 # United States Top 50 Playlist Performance and Song Popularity Trend Analysis
 
+## Live Dashboard
+
+🚀 **[Open the Streamlit Dashboard](https://united-states-top50-playlist-analysis-lq4ufpdw9m5qb8tptyjokt.streamlit.app/)**
+
+📂 **[View the GitHub Repository](https://github.com/TanisqqTech/United-States-Top50-Playlist-Analysis)**
+
 ## Project Overview
 
 This project analyzes historical United States Top 50 playlist snapshots to understand observed song ranking behavior, playlist longevity, artist presence, popularity, and content characteristics.

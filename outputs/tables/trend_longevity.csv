@@ -1,0 +1,978 @@
+song,artist,days_on_chart,average_rank,average_popularity,popularity_trend_score
+Die With A Smile,Lady Gaga & Bruno Mars,103,3.466019417475728,96.80582524271844,100
+Standing Next to You,Jung Kook,14,25.071428571428573,86.0,96
+PERRO NEGRO,Bad Bunny,36,25.583333333333332,91.16666666666667,95
+MONACO,Bad Bunny,66,22.333333333333332,94.13636363636364,94
+Super Shy,NewJeans,51,25.54901960784314,91.54901960784314,94
+Lovin On Me,Jack Harlow,156,10.75,94.94871794871794,93
+You’re Losing Me (From The Vault),Taylor Swift,16,21.5,84.75,93
+FINA,Bad Bunny,15,16.933333333333334,83.6,93
+Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,34,14.676470588235293,88.29411764705883,92
+Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,89,24.39325842696629,91.75280898876404,92
+CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,102,16.980392156862745,92.57843137254902,91
+Back To December (Taylor's Version),Taylor Swift,11,20.818181818181817,81.45454545454545,91
+"""Slut!"" (Taylor's Version) (From The Vault)",Taylor Swift,26,15.5,86.76923076923077,91
+Enchanted (Taylor's Version),Taylor Swift,11,21.363636363636363,81.18181818181819,91
+I Can See You (Taylor’s Version) (From The Vault),Taylor Swift,36,25.916666666666668,89.30555555555556,91
+I KNOW ?,Travis Scott,220,22.931818181818183,91.35,90
+IDGAF (feat. Yeat),Drake,149,20.006711409395972,91.20805369127517,90
+THANK GOD,Travis Scott,9,14.333333333333334,78.44444444444444,90
+Style (Taylor's Version),Taylor Swift,18,26.38888888888889,84.0,90
+HIBIKI,Bad Bunny,7,20.857142857142858,73.71428571428571,90
+MY EYES,Travis Scott,27,26.14814814814815,86.51851851851852,90
+Say Don't Go (Taylor's Version) (From The Vault),Taylor Swift,23,18.304347826086957,85.34782608695652,90
+Mine (Taylor's Version),Taylor Swift,8,14.125,77.75,90
+Cinderella,Future & Metro Boomin,27,20.666666666666668,84.48148148148148,90
+Slime You Out (feat. SZA),Drake & SZA,21,9.761904761904763,83.38095238095238,90
+HYAENA,Travis Scott,9,12.444444444444445,78.77777777777777,90
+Blank Space (Taylor's Version),Taylor Swift,11,22.272727272727273,79.27272727272727,89
+Better Than Revenge (Taylor's Version),Taylor Swift,7,17.857142857142858,74.71428571428571,89
+SIRENS,Travis Scott,9,20.88888888888889,77.0,89
+BURN,¥$ & Kanye West & Ty Dolla $ign,22,24.227272727272727,79.45454545454545,89
+Saturn,SZA,118,23.084745762711865,89.94915254237289,89
+Speak Now (Taylor's Version),Taylor Swift,7,22.714285714285715,74.71428571428571,89
+Sparks Fly (Taylor’s Version),Taylor Swift,7,14.714285714285714,75.14285714285714,89
+Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,140,26.307142857142857,88.75,89
+euphoria,Kendrick Lamar,63,22.53968253968254,88.36507936507937,88
+Dear John (Taylor's Version),Taylor Swift,7,19.857142857142858,74.57142857142857,88
+Suburban Legends (Taylor's Version) (From The Vault),Taylor Swift,14,15.857142857142858,80.5,88
+Single Soon,Selena Gomez,10,35.6,75.8,88
+Welcome To New York (Taylor's Version),Taylor Swift,10,24.0,77.6,88
+Out Of The Woods (Taylor's Version),Taylor Swift,11,22.363636363636363,78.63636363636364,88
+GOD'S COUNTRY,Travis Scott,8,20.875,75.375,88
+FUK SUMN,¥$ & Kanye West & Ty Dolla $ign,12,31.916666666666668,71.25,88
+MR. OCTOBER,Bad Bunny,7,25.428571428571427,72.42857142857143,88
+First Person Shooter (feat. J. Cole),Drake,137,26.94890510948905,89.33576642335767,88
+Like That,Future & Metro Boomin,169,19.37869822485207,90.9585798816568,87
+FE!N,Travis Scott,3,2.3333333333333335,57.0,87
+Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),Taylor Swift,7,15.571428571428571,73.57142857142857,87
+Foolish One (Taylor’s Version) (From The Vault),Taylor Swift,7,19.0,72.85714285714286,87
+When Emma Falls in Love (Taylor’s Version) (From The Vault),Taylor Swift,7,21.571428571428573,73.42857142857143,87
+BABY NUEVA,Bad Bunny,6,26.333333333333332,68.83333333333333,87
+The Story Of Us (Taylor's Version),Taylor Swift,6,24.333333333333332,71.5,87
+Mean (Taylor's Version),Taylor Swift,6,23.666666666666668,71.5,87
+Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),Taylor Swift,7,22.285714285714285,73.42857142857143,87
+MELTDOWN,Travis Scott,3,1.0,57.0,87
+Gently (feat. Bad Bunny),Drake,15,23.133333333333333,77.33333333333333,87
+Timeless (Taylor’s Version) (From The Vault),Taylor Swift,6,24.0,70.0,86
+Young Metro,Future & Metro Boomin,13,29.53846153846154,77.61538461538461,86
+Wildest Dreams (Taylor's Version),Taylor Swift,15,29.2,79.2,86
+Shake It Off (Taylor's Version),Taylor Swift,6,31.833333333333332,69.83333333333333,86
+TELEFONO NUEVO,Bad Bunny,5,23.0,65.8,86
+All You Had To Do Was Stay (Taylor's Version),Taylor Swift,9,27.0,75.22222222222223,86
+Haunted (Taylor's Version),Taylor Swift,5,23.8,67.6,86
+Clean (Taylor's Version),Taylor Swift,8,28.625,73.125,86
+New Romantics (Taylor's Version),Taylor Swift,9,27.444444444444443,75.11111111111111,86
+CYBERTRUCK,Bad Bunny,5,19.8,65.8,86
+SEDA,Bad Bunny,5,26.4,65.8,86
+We Don't Trust You,Future & Metro Boomin,13,27.307692307692307,78.15384615384616,86
+Virginia Beach,Drake,28,19.071428571428573,82.60714285714286,86
+I Wish You Would (Taylor's Version),Taylor Swift,8,31.625,73.0,85
+DELRESTO (ECHOES),Travis Scott,3,12.0,55.666666666666664,85
+MODERN JAM,Travis Scott,3,9.666666666666666,56.0,85
+Long Live (Taylor's Version),Taylor Swift,5,25.0,67.2,85
+TOPIA TWINS,Travis Scott,3,7.0,55.666666666666664,85
+Last Kiss (Taylor's Version),Taylor Swift,5,28.4,67.2,85
+Never Grow Up (Taylor's Version),Taylor Swift,4,26.75,62.25,84
+How You Get The Girl (Taylor's Version),Taylor Swift,6,33.333333333333336,68.83333333333333,84
+3D (feat. Jack Harlow),Jung Kook & Jack Harlow,12,26.333333333333332,66.25,84
+Bad Blood (Taylor's Version),Taylor Swift,4,29.75,62.0,84
+I Know Places (Taylor's Version),Taylor Swift,6,30.833333333333332,68.33333333333333,84
+Innocent (Taylor's Version),Taylor Swift,4,32.0,62.0,84
+Used To Be Young,Miley Cyrus,17,22.941176470588236,74.41176470588235,84
+Wonderland (Taylor's Version),Taylor Swift,6,30.5,68.16666666666667,84
+You Are In Love (Taylor's Version),Taylor Swift,6,32.0,68.0,84
+Type Shit,Future & Metro Boomin,85,25.67058823529412,88.61176470588235,84
+Houdini,Eminem,62,18.241935483870968,85.95161290322581,84
+Calling For You (feat. 21 Savage),Drake,7,8.142857142857142,68.57142857142857,84
+This Love (Taylor’s Version),Taylor Swift,6,35.833333333333336,67.83333333333333,83
+NADIE SABE,Bad Bunny,5,21.6,66.4,83
+CIRCUS MAXIMUS,Travis Scott,3,17.666666666666668,54.333333333333336,83
+SKITZO,Travis Scott,3,17.333333333333332,54.333333333333336,83
+Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo,8,31.625,69.25,83
+Fear Of Heights,Drake,7,11.571428571428571,68.0,83
+Ours (Taylor’s Version),Taylor Swift,4,31.0,61.5,83
+Daylight,Drake,7,9.428571428571429,68.0,83
+Seven (feat. Latto) (Explicit Ver.),Jung Kook,6,30.5,65.83333333333333,83
+TELEKINESIS,Travis Scott,3,13.666666666666666,54.333333333333336,83
+LA PEOPLE II,Peso Pluma & Tito Double P & Joel De La P,4,45.25,60.5,82
+LOST FOREVER,Travis Scott,3,22.0,53.666666666666664,82
+UN PREVIEW,Bad Bunny,17,26.235294117647058,74.3529411764706,82
+TIL FURTHER NOTICE,Travis Scott,3,20.333333333333332,53.666666666666664,82
+Ice Attack,Future & Metro Boomin,6,21.833333333333332,67.33333333333333,82
+BACK TO ME,¥$ & Kanye West & Ty Dolla $ign,7,33.714285714285715,60.285714285714285,82
+MY HOUSE,Beyoncé,2,43.5,41.0,82
+Amen (feat. Teezo Touchdown),Drake,7,17.714285714285715,67.14285714285714,82
+PARASAIL,Travis Scott,3,25.0,53.666666666666664,82
+7969 Santa,Drake,7,15.0,67.14285714285714,82
+8am in Charlotte,Drake,7,14.714285714285714,66.57142857142857,82
+LOOOVE,Travis Scott,3,23.666666666666668,53.666666666666664,82
+Superman (Taylor’s Version),Taylor Swift,3,32.333333333333336,53.666666666666664,81
+Slimed In,Future & Metro Boomin,5,26.0,63.4,81
+Tried Our Best,Drake,7,21.428571428571427,66.0,81
+Bahamas Promises,Drake,7,20.142857142857142,66.0,81
+You Broke My Heart,Drake,7,16.0,66.28571428571429,81
+What Would Pluto Do,Drake,7,18.285714285714285,66.0,81
+All The Parties (feat. Chief Keef),Drake,7,26.428571428571427,65.14285714285714,80
+Members Only (feat. PARTYNEXTDOOR),Drake,7,27.714285714285715,65.57142857142857,80
+SAY MY GRACE (feat. Travis Scott),Offset,6,31.166666666666668,64.5,80
+Claustrophobic,Future & Metro Boomin,4,30.5,59.0,80
+VOU 787,Bad Bunny,3,23.666666666666668,53.333333333333336,80
+Another Late Night (feat. Lil Yachty),Drake,7,25.428571428571427,65.14285714285714,80
+Drew A Picasso,Drake,7,28.428571428571427,65.14285714285714,80
+GRACIAS POR NADA,Bad Bunny,3,24.0,53.333333333333336,80
+Magic Don Juan (Princess Diana),Future & Metro Boomin,4,30.25,58.25,79
+LOS PITS,Bad Bunny,2,19.0,39.5,79
+Fried (She a Vibe),Future & Metro Boomin,4,36.5,58.0,79
+MERCEDES CAROTA,Bad Bunny,2,17.0,39.5,79
+THUNDER Y LIGHTNING,Bad Bunny,2,30.0,39.0,78
+ACHO PR,Bad Bunny,2,28.0,39.0,78
+Runnin Outta Time,Future & Metro Boomin,3,32.333333333333336,51.333333333333336,78
+NO ME QUIERO CASAR,Bad Bunny,2,25.0,39.0,78
+BATICANO,Bad Bunny,2,27.0,39.0,78
+It's Up (feat. Young Thug & 21 Savage),Drake,5,34.0,59.8,78
+VUELVE CANDY B,Bad Bunny,2,22.0,39.0,78
+Away From Home,Drake,6,30.5,61.666666666666664,78
+Everyday Hustle,Future & Metro Boomin,3,38.333333333333336,50.333333333333336,77
+Polar Opposites,Drake,5,36.8,57.6,76
+BBL Love - Interlude,Drake,5,38.8,57.8,76
+Sarah's Place (feat. Noah Kahan),Zach Bryan & Noah Kahan,13,24.076923076923077,66.07692307692308,75
+Evil Ways (feat. J. Cole),Drake,4,27.0,54.25,75
+Deep Satin,Zach Bryan,4,32.75,54.0,75
+FRIED,¥$ & Kanye West & Ty Dolla $ign,3,45.0,47.333333333333336,73
+SLIDE,¥$ & Kanye West & Ty Dolla $ign,3,40.0,47.0,72
+Nine Ball,Zach Bryan,3,43.333333333333336,46.333333333333336,71
+Cobra,Megan Thee Stallion,3,45.0,46.0,71
+BANDIT,Don Toliver,6,40.0,54.666666666666664,71
+Boys Of Faith (feat. Bon Iver),Zach Bryan & Bon Iver,8,25.75,55.5,68
+Screw The World - Interlude,Drake,2,24.5,34.0,68
+"The girl, so confusing version with lorde",Charli xcx & Lorde,2,25.0,33.5,67
+Stories About My Brother,Drake,2,29.5,33.5,67
+The Shoe Fits,Drake,2,25.0,33.5,67
+Red Button,Drake,2,20.0,33.5,67
+Popular (with Playboi Carti & Madonna),The Weeknd,17,44.411764705882355,74.94117647058823,65
+Vultures,¥$ & Kanye West & Ty Dolla $ign,2,33.5,32.5,65
+RELOJ,Peso Pluma,2,47.0,31.5,63
+tv off (feat. lefty gunplay),Kendrick Lamar,4,3.25,69.25,55
+peekaboo (feat. azchike),Kendrick Lamar,4,10.25,66.0,54
+500lbs,Lil Tecca,185,24.864864864864863,83.36756756756756,54
+"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,40,35.575,81.075,54
+hey now (feat. dody6),Kendrick Lamar,4,5.0,68.25,53
+heart pt. 6,Kendrick Lamar,4,10.75,66.5,53
+"gnx (feat. hitta j3, youngthreat, peysoh)",Kendrick Lamar,4,14.0,65.25,53
+reincarnated,Kendrick Lamar,4,6.5,68.25,53
+man at the garden,Kendrick Lamar,4,6.25,68.5,52
+Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,35,36.51428571428571,78.77142857142857,52
+squabble up,Kendrick Lamar,4,1.0,71.25,52
+wacced out murals,Kendrick Lamar,4,3.5,70.75,49
+Gata Only (Mashup),Dj Agus Lima,2,26.0,24.0,48
+Agora Hills,Doja Cat,174,22.339080459770116,81.61494252873563,47
+I Had Some Help (Feat. Morgan Wallen),Post Malone,103,13.16504854368932,83.42718446601941,46
+greedy,Tate McRae,216,14.097222222222221,96.05092592592592,45
+Tourniquet,Zach Bryan,42,29.833333333333332,82.5,45
+Pour Me A Drink (Feat. Blake Shelton),Post Malone & Blake Shelton,28,25.428571428571427,80.78571428571429,44
+Spotless (feat. The Lumineers),Zach Bryan,28,25.821428571428573,81.25,43
+exes,Tate McRae,66,37.621212121212125,83.74242424242425,43
+I Remember Everything (feat. Kacey Musgraves),Zach Bryan,445,13.916853932584269,90.07640449438202,43
+Smaller Acts,Zach Bryan,11,33.0,74.18181818181819,42
+Guy For That (Feat. Luke Combs),Post Malone,11,22.90909090909091,70.18181818181819,42
+obsessed,Olivia Rodrigo,27,29.074074074074073,85.48148148148148,42
+Ticking,Zach Bryan,13,26.615384615384617,76.76923076923077,42
+East Side of Sorrow,Zach Bryan,22,23.636363636363637,80.68181818181819,42
+Tradesman,Zach Bryan,8,32.375,71.75,41
+Hey Driver (feat. The War and Treaty),Zach Bryan,55,22.472727272727273,84.56363636363636,41
+Fear and Friday's,Zach Bryan,15,23.8,77.93333333333334,41
+Summertime's Close,Zach Bryan,12,27.333333333333332,76.75,40
+Bed Chem,Sabrina Carpenter,96,16.260416666666668,89.86458333333333,40
+Jake's Piano - Long Island,Zach Bryan,8,30.5,71.875,40
+El Dorado,Zach Bryan,8,27.625,72.125,40
+Taste,Sabrina Carpenter,96,4.625,93.26041666666667,40
+Too Sweet,Hozier,230,16.465217391304346,83.34782608695652,39
+Holy Roller (feat. Sierra Ferrell),Zach Bryan,8,23.25,72.625,39
+Overtime,Zach Bryan,12,26.5,77.25,39
+Juno,Sabrina Carpenter,87,32.11494252873563,86.42528735632185,39
+Oklahoman Son,Zach Bryan,6,35.333333333333336,68.66666666666667,39
+Slow It Down,Benson Boone,197,37.36040609137056,87.13197969543147,39
+BIRDS OF A FEATHER,Billie Eilish,191,5.2565445026178015,97.15706806282722,38
+Guy For That (Feat. Luke Combs),Post Malone & Luke Combs,20,23.05,80.5,38
+Northern Attitude (with Hozier),Noah Kahan & Hozier,8,21.75,71.625,37
+Parking Lot,Mustard & Travis Scott,7,38.142857142857146,70.71428571428571,37
+Enough Is Enough,Post Malone,8,34.75,75.5,37
+Pour Me A Drink (Feat. Blake Shelton),Post Malone,7,22.857142857142858,66.0,37
+Coincidence,Sabrina Carpenter,24,27.041666666666668,82.5,37
+What Don't Belong To Me,Post Malone,7,27.571428571428573,68.14285714285714,36
+Slim Pickins,Sabrina Carpenter,16,24.9375,79.75,36
+un x100to,Grupo Frontera,21,43.19047619047619,71.19047619047619,36
+Don’t Smile,Sabrina Carpenter,15,30.8,78.33333333333333,36
+Sharpest Tool,Sabrina Carpenter,23,26.52173913043478,82.69565217391305,36
+The Thin Grey Line,$uicideboy$,5,40.6,57.0,35
+Good Graces,Sabrina Carpenter,67,24.19402985074627,87.29850746268657,35
+so american,Olivia Rodrigo,6,30.333333333333332,73.66666666666667,35
+Fear and Friday's (Poem),Zach Bryan,6,31.0,70.83333333333333,35
+Losers (Feat. Jelly Roll),Post Malone,6,32.0,65.83333333333333,35
+Dumb & Poetic,Sabrina Carpenter,14,30.285714285714285,78.14285714285714,35
+California Sober (Feat. Chris Stapleton),Post Malone,6,34.333333333333336,66.83333333333333,35
+QLONA,KAROL G,85,28.4,89.44705882352942,35
+Nosedive (Feat. Lainey Wilson),Post Malone,5,34.2,63.2,34
+Wrong Ones (Feat. Tim McGraw),Post Malone,7,18.285714285714285,69.42857142857143,34
+WILDFLOWER,Billie Eilish,147,27.959183673469386,90.07482993197279,34
+Lie To Girls,Sabrina Carpenter,9,27.77777777777778,74.66666666666667,34
+Finer Things (Feat. Hank Williams Jr.),Post Malone,5,25.6,65.2,33
+Goes Without Saying (Feat. Brad Paisley),Post Malone,5,39.2,63.8,33
+Hide My Gun (Feat. HARDY),Post Malone,3,38.333333333333336,55.666666666666664,33
+Houdini,Dua Lipa,13,29.923076923076923,85.6923076923077,33
+STARS,¥$ & Kanye West & Ty Dolla $ign,2,23.0,16.0,32
+luther (with sza),Kendrick Lamar,4,2.75,51.5,32
+us. (feat. Taylor Swift),Gracie Abrams,8,29.75,71.5,32
+Devil I've Been (Feat. ERNEST),Post Malone,3,38.666666666666664,57.0,32
+Never Love You Again (Feat. Sierra Ferrell),Post Malone,3,46.333333333333336,56.333333333333336,32
+White Horse,Chris Stapleton,2,35.5,41.0,32
+BLUE,Billie Eilish,21,29.428571428571427,86.85714285714286,32
+Wildflower and Barley (feat. Allison Russell),Hozier,2,32.0,55.5,31
+CHIHIRO,Billie Eilish,56,21.767857142857142,91.48214285714286,31
+Something Real,Post Malone,4,39.25,68.5,31
+THE DINER,Billie Eilish,14,30.214285714285715,83.78571428571429,31
+THE GREATEST,Billie Eilish,18,29.333333333333332,85.77777777777777,31
+Missin’ You Like This (Feat. Luke Combs),Post Malone,3,40.333333333333336,57.666666666666664,31
+LUNCH,Billie Eilish,89,19.04494382022472,93.23595505617978,30
+PAID,¥$ & Kanye West & Ty Dolla $ign,2,39.0,15.0,30
+Have The Heart (Feat. Dolly Parton),Post Malone,3,29.0,59.0,30
+BITTERSUITE,Billie Eilish,10,31.6,81.8,30
+SKINNY,Billie Eilish,14,24.071428571428573,85.92857142857143,29
+DO IT,¥$ & Kanye West & Ty Dolla $ign,2,25.5,14.0,28
+eternal sunshine,Ariana Grande,13,15.538461538461538,84.15384615384616,28
+"Good Luck, Babe!",Chappell Roan,232,9.974137931034482,92.625,27
+Lonely Road (with Jelly Roll),mgk & Jelly Roll,2,49.0,52.5,27
+L’AMOUR DE MA VIE,Billie Eilish,26,30.26923076923077,86.3076923076923,27
+II MOST WANTED,Beyoncé,14,20.642857142857142,67.28571428571429,26
+ordinary things (feat. Nonna),Ariana Grande,5,36.0,75.0,26
+That’s So True,Gracie Abrams,38,8.052631578947368,87.28947368421052,26
+Mamaw's House,Thomas Rhett,2,13.0,12.5,25
+Rich Men North of Richmond,Oliver Anthony Music,54,15.722222222222221,86.64814814814815,24
+MI EX TENÍA RAZÓN,KAROL G,15,33.13333333333333,76.46666666666667,22
+APT.,ROSÉ & Bruno Mars,39,9.051282051282051,94.71794871794872,22
+White Christmas - 1947 Version,Bing Crosby & Fred Astaire,56,25.285714285714285,82.82142857142857,22
+Wanna Be (with Megan Thee Stallion),GloRilla,19,37.63157894736842,75.73684210526316,22
+"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",Metro Boomin,31,16.225806451612904,89.48387096774194,22
+Dance The Night (From Barbie The Album),Dua Lipa,48,18.125,94.79166666666667,22
+MILLION DOLLAR BABY,Tommy Richman,206,14.946601941747574,90.0873786407767,21
+we can't be friends (wait for your love),Ariana Grande,116,22.974137931034484,92.16379310344827,21
+Igual Que Un Ángel (with Peso Pluma),Kali Uchis,35,18.02857142857143,91.77142857142857,21
+fukumean,Gunna,236,15.055084745762711,93.44915254237289,20
+"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",Metro Boomin,28,24.071428571428573,87.71428571428571,20
+Ain't No Love In Oklahoma (From Twisters: The Album),Luke Combs,121,31.214876033057852,83.65289256198348,20
+DEVIL IS A LIE,Tommy Richman,46,27.0,83.95652173913044,20
+FTCU,Nicki Minaj,54,18.796296296296298,87.22222222222223,19
+"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",Metro Boomin,28,18.357142857142858,88.10714285714286,19
+Whatever She Wants [BONUS],Bryson Tiller,10,20.9,62.7,19
+Tough,Quavo & Lana Del Rey,20,28.45,84.35,19
+TQM,Fuerza Regida,68,25.029411764705884,92.58823529411765,19
+HISS,Megan Thee Stallion,17,11.352941176470589,84.41176470588235,19
+Deli,Ice Spice,33,40.81818181818182,82.42424242424242,18
+CARNIVAL,Kanye West & Ty Dolla $ign,4,6.0,82.0,18
+Everybody (feat. Lil Uzi Vert),Nicki Minaj,30,35.3,83.1,18
+Guess featuring billie eilish,Charli xcx,11,39.09090909090909,71.18181818181819,18
+High Road (feat. Jessie Murph),Koe Wetzel & Jessie Murph,26,31.807692307692307,75.46153846153847,18
+A Bar Song (Tipsy),Shaboozey,226,10.765486725663717,85.39380530973452,18
+JOLENE,Beyoncé,9,21.444444444444443,62.22222222222222,18
+Tobey (feat. Big Sean and BabyTron),Eminem & Big Sean & BabyTron,8,32.875,77.75,17
+Murder On The Dancefloor,Sophie Ellis-Bextor,31,35.193548387096776,87.61290322580645,17
+Big Dawgs,Hanumankind & Kalmi,59,28.16949152542373,89.77966101694915,17
+LADY GAGA,Peso Pluma,150,29.066666666666666,92.17333333333333,17
+SABOR FRESA,Fuerza Regida,47,32.40425531914894,91.31914893617021,17
+Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj & Ice Spice & Aqua,104,18.75,92.00961538461539,17
+Push Ups,Drake,28,21.214285714285715,88.35714285714286,17
+FUK SUMN,Kanye West & Ty Dolla $ign,4,15.0,80.0,16
+My Love Mine All Mine,Mitski,223,16.573991031390136,95.02690582959642,16
+Think U The Shit (Fart),Ice Spice,15,28.0,80.26666666666667,16
+meet the grahams,Kendrick Lamar,13,13.923076923076923,84.23076923076923,16
+Austin,Dasha,64,32.234375,84.796875,16
+TULUM,Peso Pluma,22,37.90909090909091,88.9090909090909,16
+In Your Love,Tyler Childers,7,43.142857142857146,72.42857142857143,16
+28,Zach Bryan,100,27.57,84.87,16
+Breathe,Yeat,37,23.405405405405407,83.86486486486487,16
+Dial Drunk (with Post Malone),Noah Kahan & Post Malone,35,32.8,84.65714285714286,15
+No Face,Drake,3,40.0,65.66666666666667,15
+TALKING,Kanye West & Ty Dolla $ign,4,10.25,78.25,15
+Family Matters,Drake,15,18.066666666666666,85.46666666666667,15
+Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,14,40.714285714285715,88.64285714285714,15
+Slime You Out (feat. SZA),Drake,21,23.38095238095238,81.57142857142857,15
+Noid,"Tyler, The Creator",26,19.923076923076923,81.92307692307692,15
+Love Somebody,Morgan Wallen,39,21.05128205128205,83.53846153846153,15
+Patience (feat. Don Toliver),Lil Uzi Vert,2,36.5,26.5,15
+BACK TO ME,Kanye West & Ty Dolla $ign,4,13.75,80.25,15
+Whatever She Wants,Bryson Tiller,78,23.58974358974359,87.85897435897436,14
+Attention,Doja Cat,14,18.785714285714285,83.78571428571429,14
+MOJABI GHOST,Tainy,8,29.75,85.75,14
+Lies Lies Lies,Morgan Wallen,106,27.88679245283019,85.26415094339623,14
+Please Please Please,Sabrina Carpenter,170,9.905882352941177,92.17647058823529,14
+Say Yes To Heaven,Lana Del Rey,15,39.6,86.66666666666667,14
+"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)","Tyler, The Creator",29,4.551724137931035,85.93103448275862,14
+Spin You Around (1/24),Morgan Wallen,10,34.5,76.4,14
+Stand By Me (feat. Morgan Wallen),Lil Durk,31,19.516129032258064,84.87096774193549,14
+Like Him (feat. Lola Young),"Tyler, The Creator",29,13.758620689655173,84.17241379310344,14
+redrum,21 Savage,115,15.982608695652173,93.59130434782608,14
+"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,46,23.456521739130434,95.43478260869566,14
+KEYS TO MY LIFE,Kanye West & Ty Dolla $ign,4,23.0,79.0,13
+née-nah,21 Savage,27,24.14814814814815,87.77777777777777,13
+Tell Ur Girlfriend,Lay Bankz,33,34.75757575757576,87.0909090909091,13
+Better Days (feat. John Mayer),Zach Bryan,7,29.714285714285715,71.0,13
+Espresso,Sabrina Carpenter,226,7.946902654867257,94.23893805309734,13
+Mamushi (feat. Yuki Chiba),Megan Thee Stallion,36,38.72222222222222,84.47222222222223,13
+PAID,Kanye West & Ty Dolla $ign,4,21.5,79.25,13
+bad idea right?,Olivia Rodrigo,83,17.843373493975903,90.855421686747,13
+STARS,Kanye West & Ty Dolla $ign,4,10.75,81.0,13
+Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),Metro Boomin,25,27.44,86.64,13
+Timeless (with Playboi Carti),The Weeknd & Playboi Carti,60,10.083333333333334,90.7,13
+the boy is mine,Ariana Grande,23,20.043478260869566,87.3913043478261,12
+the grudge,Olivia Rodrigo,22,20.727272727272727,86.72727272727273,12
+AMERICA HAS A PROBLEM (feat. Kendrick Lamar),Beyoncé & Kendrick Lamar,4,22.25,72.0,12
+ADIVINO,Myke Towers & Bad Bunny,3,40.666666666666664,85.0,12
+It's Beginning to Look a Lot like Christmas,Michael Bublé,37,15.378378378378379,83.24324324324324,12
+"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,142,26.45774647887324,95.2394366197183,12
+American Nights,Zach Bryan,8,25.25,73.625,12
+n.h.i.e.,21 Savage,14,21.285714285714285,84.92857142857143,12
+It's the Most Wonderful Time of the Year,Andy Williams,42,12.476190476190476,76.64285714285714,12
+MILLION DOLLAR BABY (VHS),Tommy Richman,14,39.857142857142854,78.42857142857143,12
+Enough (Miami),Cardi B,5,33.0,69.0,12
+i like the way you kiss me,Artemas,100,19.09,96.23,12
+End of Beginning,Djo,147,25.517006802721088,94.7687074829932,12
+I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,95,3.905263157894737,93.91578947368421,12
+Cry,Benson Boone,2,47.0,74.0,12
+Sleigh Ride,The Ronettes,34,19.38235294117647,79.94117647058823,12
+get him back!,Olivia Rodrigo,34,17.147058823529413,90.3529411764706,12
+Qué Pasaría...,Rauw Alejandro,9,35.666666666666664,79.77777777777777,12
+Lithonia,Childish Gambino,7,42.0,69.28571428571429,12
+Who,Jimin,129,7.658914728682171,92.7984496124031,11
+Guess featuring Billie Eilish,Charli xcx & Billie Eilish,66,25.454545454545453,90.81818181818181,11
+you look like you love me (feat. Riley Green),Ella Langley & Riley Green,18,36.611111111111114,78.77777777777777,11
+Sailor Song,Gigi Perez,94,14.77659574468085,85.72340425531915,11
+Christmas (Baby Please Come Home),Darlene Love,31,34.45161290322581,81.64516129032258,11
+Training Season,Dua Lipa,8,32.0,85.25,11
+Tobey (feat. Big Sean and BabyTron),Eminem,8,28.125,75.25,11
+The Prophecy,Taylor Swift,13,34.46153846153846,84.92307692307692,11
+Thought I Was Dead (feat. ScHoolboy Q & Santigold),"Tyler, The Creator",25,26.4,83.48,11
+This Is Halloween,Various Artists,6,23.166666666666668,59.833333333333336,11
+BAND4BAND (feat. Lil Baby),Central Cee & Lil Baby,34,24.91176470588235,86.61764705882354,11
+act ii: date @ 8 (feat. Drake) - remix,4batz & Drake,13,33.23076923076923,82.3076923076923,11
+Beautiful Things,Benson Boone,306,14.738562091503267,90.80065359477125,11
+Somebody Save Me,Eminem,10,37.7,78.4,11
+So High School,Taylor Swift,18,32.77777777777778,86.27777777777777,11
+Pink Skies,Zach Bryan,177,22.062146892655367,86.79661016949153,11
+Rush,Troye Sivan,10,42.8,85.1,11
+Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,81,22.358024691358025,98.65432098765432,11
+Run Rudolph Run,Chuck Berry,20,32.65,86.2,11
+Oh U Went (feat. Drake),Young Thug,8,17.375,80.375,11
+Paint The Town Red,Doja Cat,197,16.238578680203045,87.96954314720813,11
+Doomsday (with Juice WRLD & Cordae),Lyrical Lemonade & Juice WRLD & Cordae,7,39.285714285714285,76.85714285714286,11
+Needle (feat. Drake),Nicki Minaj,7,29.714285714285715,79.85714285714286,11
+I’m Just Ken (From Barbie The Album),Ryan Gosling,8,43.125,74.5,11
+It's ok I'm ok,Tate McRae,26,33.11538461538461,84.11538461538461,11
+Little Saint Nick - 1991 Remix,The Beach Boys,22,31.5,82.5909090909091,11
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,23,35.391304347826086,88.34782608695652,11
+Fuel,Eminem,8,24.125,79.125,11
+Jingle Bells - Remastered 1999,Frank Sinatra,34,29.764705882352942,84.79411764705883,11
+It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),Perry Como,34,26.88235294117647,86.97058823529412,11
+A Holly Jolly Christmas,Burl Ives,37,13.64864864864865,87.72972972972973,11
+pretty isn’t pretty,Olivia Rodrigo,14,29.142857142857142,83.92857142857143,10
+true story,Ariana Grande,8,25.0,83.0,10
+BODYGUARD,Beyoncé,10,23.2,81.3,10
+Balloon (feat. Doechii),"Tyler, The Creator",13,29.307692307692307,80.0,10
+We Still Don't Trust You,Future & Metro Boomin,7,22.714285714285715,80.71428571428571,10
+all-american bitch,Olivia Rodrigo,27,17.703703703703702,88.48148148148148,10
+TEXAS HOLD 'EM,Beyoncé,63,13.857142857142858,82.57142857142857,10
+Blue Christmas,Elvis Presley,30,33.06666666666667,86.13333333333334,10
+Bongos (feat. Megan Thee Stallion),Cardi B & Megan Thee Stallion,9,36.666666666666664,78.66666666666667,10
+Bandit,Don Toliver,49,36.87755102040816,85.79591836734694,10
+Hits Different,Taylor Swift,12,21.25,83.75,10
+Home,Good Neighbours,52,40.17307692307692,84.48076923076923,10
+Mele Kalikimaka (Merry Christmas),Bing Crosby,18,37.55555555555556,83.66666666666667,10
+Neva Play (feat. RM of BTS),Megan Thee Stallion & RM,6,44.166666666666664,80.0,10
+Lace It (with Eminem & benny blanco),Juice WRLD & Eminem & benny blanco,5,38.4,78.8,10
+all of me,21 Savage,10,22.9,83.6,10
+Bye Bye Bye - From Deadpool and Wolverine Soundtrack,*NSYNC,16,36.3125,85.25,10
+Bye,Peso Pluma,24,29.458333333333332,87.70833333333333,10
+LEVII'S JEANS,Beyoncé,9,24.22222222222222,80.0,10
+K-POP,Travis Scott & Bad Bunny & The Weeknd,33,18.90909090909091,87.18181818181819,10
+Feliz Navidad,José Feliciano,34,20.38235294117647,84.82352941176471,10
+Holly Jolly Christmas,Michael Bublé,34,23.91176470588235,80.11764705882354,10
+bye,Ariana Grande,13,16.846153846153847,85.92307692307692,10
+"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)",Metro Boomin,6,43.0,77.16666666666667,10
+St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",29,7.551724137931035,88.44827586206897,10
+High Road,Zach Bryan,7,34.857142857142854,69.85714285714286,10
+i wish i hated you,Ariana Grande,7,26.428571428571427,81.71428571428571,10
+imperfect for you,Ariana Grande,7,29.285714285714285,81.0,10
+Now And Then,The Beatles,4,34.5,79.5,10
+"Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",26,14.923076923076923,85.88461538461539,10
+Popular (with Playboi Carti & Madonna),The Weeknd & Playboi Carti & Madonna,6,18.333333333333332,81.16666666666667,10
+making the bed,Olivia Rodrigo,14,14.571428571428571,85.35714285714286,10
+love is embarrassing,Olivia Rodrigo,14,20.785714285714285,84.92857142857143,10
+supernatural,Ariana Grande,12,23.833333333333332,84.83333333333333,10
+BLACKBIIRD,Beyoncé,5,22.2,54.6,9
+Tomorrow,"Tyler, The Creator",9,31.333333333333332,79.44444444444444,9
+Underneath the Tree,Kelly Clarkson,34,20.294117647058822,83.05882352941177,9
+YA YA,Beyoncé,7,31.142857142857142,78.14285714285714,9
+2 hands,Tate McRae,7,33.57142857142857,76.57142857142857,9
+The Albatross,Taylor Swift,10,33.3,84.6,9
+Favorite Song (feat. Future) [Toxic Version],Toosii & Future,4,41.5,56.5,9
+Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams),"Tyler, The Creator",12,26.0,81.16666666666667,9
+Cool With You,NewJeans,4,34.0,81.25,9
+How Did It End?,Taylor Swift,10,35.3,84.1,9
+don't wanna break up again,Ariana Grande,11,26.363636363636363,84.18181818181819,9
+Forever,Noah Kahan,7,19.857142857142858,79.42857142857143,9
+Cassandra,Taylor Swift,7,39.57142857142857,81.85714285714286,9
+Close To You,Gracie Abrams,21,35.76190476190476,70.95238095238095,9
+Santa Baby (with Henri René & His Orchestra),Eartha Kitt,23,30.565217391304348,77.30434782608695,9
+ballad of a homeschooled girl,Olivia Rodrigo,14,18.571428571428573,85.14285714285714,9
+I Hate It Here,Taylor Swift,9,35.333333333333336,83.44444444444444,9
+The Black Dog,Taylor Swift,15,31.066666666666666,86.33333333333333,9
+The Bolter,Taylor Swift,7,39.714285714285715,81.0,9
+Peter,Taylor Swift,7,39.42857142857143,81.71428571428571,9
+Not Like Us,Kendrick Lamar,201,11.99502487562189,93.48258706467662,9
+Renaissance,Eminem,7,21.714285714285715,80.57142857142857,9
+Pink Pony Club,Chappell Roan,148,21.66216216216216,86.53378378378379,9
+Rah Tah Tah,"Tyler, The Creator",25,18.68,85.76,9
+Mistletoe,Justin Bieber,29,40.0,89.86206896551724,9
+NIGHTS LIKE THIS,The Kid LAROI,147,31.591836734693878,87.60544217687075,9
+One Of Your Girls,Troye Sivan,10,32.4,82.3,9
+Dial Drunk,Noah Kahan,24,24.125,82.70833333333333,9
+Oak Island,Zach Bryan,5,33.4,70.6,9
+lacy,Olivia Rodrigo,18,22.38888888888889,85.5,9
+imgonnagetyouback,Taylor Swift,15,29.733333333333334,86.2,9
+intro (end of the world),Ariana Grande,9,26.77777777777778,83.44444444444444,9
+I LUV IT (feat. Playboi Carti),Camila Cabello & Playboi Carti,5,41.2,80.8,9
+Endless Fashion (feat. Nicki Minaj),Lil Uzi Vert,7,15.142857142857142,80.71428571428571,9
+logical,Olivia Rodrigo,14,19.142857142857142,85.14285714285714,9
+Flooded The Face,Lil Uzi Vert,27,27.40740740740741,86.66666666666667,9
+sneaky,21 Savage,6,30.5,80.5,9
+teenage dream,Olivia Rodrigo,9,27.22222222222222,82.11111111111111,9
+run for the hills,Tate McRae,4,40.25,77.25,9
+ALL RED,Playboi Carti,20,18.3,89.25,9
+AMERIICAN REQUIEM,Beyoncé,6,25.5,55.5,8
+Area Codes,Kali,43,18.046511627906977,88.02325581395348,8
+one of wun,Gunna,68,38.69117647058823,84.20588235294117,8
+Apple,Charli xcx,47,31.70212765957447,87.68085106382979,8
+I Look in People's Windows,Taylor Swift,8,37.25,82.5,8
+VVS,Peso Pluma,4,29.0,78.0,8
+BELLAKEO,Peso Pluma & Anitta,27,42.407407407407405,92.77777777777777,8
+All I Want for Christmas Is You,Mariah Carey,75,17.266666666666666,91.0,8
+TYRANT,Beyoncé,4,37.0,49.5,8
+SPAGHETTII,Beyoncé,6,29.833333333333332,78.5,8
+Dancing In The Flames,The Weeknd,7,23.857142857142858,82.0,8
+Chloe or Sam or Sophia or Marcus,Taylor Swift,8,34.625,83.375,8
+LUNA,Peso Pluma,14,25.285714285714285,73.57142857142857,8
+DAUGHTER,Beyoncé,6,28.0,53.5,8
+Saturn Returns Interlude,Ariana Grande,5,32.0,79.6,8
+dangerous,21 Savage,5,26.2,79.0,8
+I Can Do It With a Broken Heart,Taylor Swift,96,22.28125,87.51041666666667,8
+Judge Judy,"Tyler, The Creator",12,25.166666666666668,81.25,8
+Or What,NLE Choppa,13,40.76923076923077,65.76923076923077,8
+Hey Jane,"Tyler, The Creator",10,24.1,81.4,8
+Did It First (with Central Cee),Ice Spice & Central Cee,17,38.64705882352941,83.88235294117646,8
+Deck The Halls,Nat King Cole,15,41.2,83.93333333333334,8
+7 Minute Drill,J. Cole,7,16.571428571428573,78.85714285714286,8
+thanK you aIMee,Taylor Swift,9,28.77777777777778,84.66666666666667,8
+Crocodile Tearz,J. Cole,6,22.5,77.33333333333333,8
+All My Life (feat. J. Cole),Lil Durk,86,22.651162790697676,82.5,8
+Try That In A Small Town,Jason Aldean,7,12.142857142857142,77.28571428571429,7
+Antichrist,Eminem,4,39.5,76.0,7
+TEFLON DON,Future,6,35.833333333333336,75.16666666666667,7
+MY ROSE,Beyoncé,3,30.0,50.666666666666664,7
+pop ur shit,21 Savage,5,23.2,79.4,7
+I Killed You,"Tyler, The Creator",10,27.9,80.7,7
+Sympathy is a knife featuring ariana grande,Charli xcx,6,29.833333333333332,75.66666666666667,7
+Karma (feat. Ice Spice),Taylor Swift,6,22.833333333333332,80.83333333333333,7
+RIIVERDANCE,Beyoncé,4,36.5,74.25,7
+Evil,Eminem,4,29.0,77.0,7
+HARLEY QUINN,Fuerza Regida,58,33.05172413793103,93.13793103448276,7
+No One Noticed,The Marías,52,36.75,80.90384615384616,7
+Strangers,Kenya Grace,83,33.24096385542169,95.79518072289157,7
+Tu Boda,Oscar Maydon & Fuerza Regida,39,23.58974358974359,91.33333333333333,7
+Habits,Eminem,6,20.0,79.66666666666667,7
+ONE CALL,Rich Amiri,80,24.9125,85.675,7
+Brand New Dance,Eminem,6,27.5,78.66666666666667,7
+The Manuscript,Taylor Swift,5,42.8,79.8,7
+The Way Back,Zach Bryan,3,44.333333333333336,67.66666666666667,7
+Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,The Weeknd & Madonna,27,28.962962962962962,93.07407407407408,6
+Magnetic,ILLIT,12,43.666666666666664,90.33333333333333,6
+SMOKE HOUR ★ WILLIE NELSON,Beyoncé,3,28.333333333333332,50.666666666666664,6
+Cheeseburger In Paradise,Jimmy Buffett,2,38.0,63.0,6
+Robin,Taylor Swift,4,42.75,78.5,6
+H.Y.B. (feat. Bas & Central Cee),J. Cole,4,32.0,74.5,6
+vampire,Olivia Rodrigo,257,22.315175097276263,94.6887159533074,6
+HOT TO GO!,Chappell Roan,172,16.686046511627907,88.80813953488372,6
+Rockin' Around The Christmas Tree,Brenda Lee,61,12.80327868852459,89.65573770491804,6
+DO IT,Kanye West & Ty Dolla $ign,3,14.0,81.33333333333333,6
+Last Time I Saw You,Nicki Minaj,3,42.666666666666664,76.0,6
+Santa Tell Me - Naughty Version,Ariana Grande,2,9.5,59.0,6
+Trouble,Eminem,4,26.5,77.25,6
+Lose Control,Teddy Swims,328,23.536585365853657,90.90853658536585,6
+LIL DEMON,Future,3,34.0,73.0,6
+ETA,NewJeans,3,32.666666666666664,79.33333333333333,6
+Stargazing,Myles Smith,76,37.43421052631579,90.75,6
+Lucifer,Eminem,4,34.5,76.5,6
+"I Love You, I'm Sorry",Gracie Abrams,104,25.423076923076923,88.8173076923077,6
+WHISKEY WHISKEY (feat. Morgan Wallen),Moneybagg Yo,3,39.666666666666664,64.33333333333333,6
+BURN,Kanye West & Ty Dolla $ign,3,6.0,83.0,6
+War Bout It (feat. 21 Savage),Lil Durk,3,29.333333333333332,77.33333333333333,6
+red sky,21 Savage,3,34.333333333333336,75.33333333333333,6
+ALLIIGATOR TEARS,Beyoncé,4,34.5,50.0,6
+Werewolf (feat. Bring Me The Horizon),Lil Uzi Vert,3,34.666666666666664,74.33333333333333,6
+High Road (feat. Jessie Murph),Koe Wetzel,3,47.666666666666664,60.0,6
+should've wore a bonnet,21 Savage,4,31.0,76.5,6
+Huntin’ Wabbitz,J. Cole,4,27.0,73.75,6
+I Hope You Find Your Way Home,"Tyler, The Creator",4,24.25,76.0,6
+Defying Gravity,Wicked Movie Cast & Cynthia Erivo & Ariana Grande,3,34.666666666666664,74.0,6
+Fortnight (feat. Post Malone),Taylor Swift,103,18.95145631067961,92.30097087378641,5
+Who’s Afraid of Little Old Me?,Taylor Swift,41,21.70731707317073,83.48780487804878,5
+"Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",J. Cole,3,25.666666666666668,73.66666666666667,5
+HOODRAT,Kanye West & Ty Dolla $ign,3,27.0,80.0,5
+Pluto to Mars,Lil Uzi Vert,3,26.333333333333332,74.66666666666667,5
+Red Wine Supernova,Chappell Roan,149,27.543624161073826,86.25503355704699,5
+PROBLEMATIC,Kanye West & Ty Dolla $ign,3,32.666666666666664,78.66666666666667,5
+La Diabla,Xavi,103,18.37864077669903,96.6504854368932,5
+PAPERWORK,Kanye West & Ty Dolla $ign,3,23.333333333333332,80.66666666666667,5
+Speed Drive (From Barbie The Album),Charli XCX,30,37.333333333333336,87.93333333333334,5
+Margaritaville,Jimmy Buffett,3,13.666666666666666,72.66666666666667,5
+All My Life (feat. J. Cole),Lil Durk & J. Cole,10,4.5,87.2,5
+TELEKINESIS (feat. SZA & Future),Travis Scott,67,28.611940298507463,90.56716417910448,5
+BYE,Peso Pluma,9,38.111111111111114,69.66666666666667,5
+JUST FOR FUN,Beyoncé,3,32.666666666666664,48.666666666666664,5
+AMERICA HAS A PROBLEM (feat. Kendrick Lamar),Beyoncé,6,37.833333333333336,81.83333333333333,5
+VULTURES,Kanye West & Ty Dolla $ign,3,21.333333333333332,79.66666666666667,5
+BEG FORGIVENESS,Kanye West & Ty Dolla $ign,3,26.0,79.66666666666667,5
+prove it,21 Savage,3,30.666666666666668,75.66666666666667,5
+PROTECTOR,Beyoncé,4,29.75,51.0,5
+September,"Earth, Wind & Fire & sped up + slowed",3,19.666666666666668,83.33333333333333,5
+Praise Jah In The Moonlight,YG Marley,41,34.73170731707317,92.85365853658537,5
+Down Bad,Taylor Swift,49,19.79591836734694,87.0,5
+Heavy Is the Crown,Linkin Park,2,44.5,80.5,5
+GOOD (DON'T DIE),Kanye West & Ty Dolla $ign,3,36.333333333333336,78.66666666666667,5
+Stick Season,Noah Kahan,413,18.322033898305083,91.07990314769975,5
+Story of My Life,One Direction,6,37.833333333333336,84.66666666666667,5
+FLAMENCO,Beyoncé,2,31.0,47.0,4
+Guilty as Sin?,Taylor Swift,39,24.564102564102566,82.87179487179488,4
+Aye (feat. Travis Scott),Lil Uzi Vert,3,10.666666666666666,79.33333333333333,4
+x2,Lil Uzi Vert,3,24.0,76.33333333333333,4
+Purple Gas,Zach Bryan,2,41.0,65.0,4
+I Gotta,Lil Uzi Vert,3,16.333333333333332,76.33333333333333,4
+The Great American Bar Scene,Zach Bryan,2,23.0,68.0,4
+act ii: date @ 8,4batz,52,37.09615384615385,85.09615384615384,4
+TOPIA TWINS (feat. Rob49 & 21 Savage),Travis Scott,18,26.944444444444443,89.22222222222223,4
+gloria (with sza),Kendrick Lamar,3,13.333333333333334,78.0,4
+letter to my brudda,21 Savage,2,36.0,75.0,4
+loml,Taylor Swift,22,29.954545454545453,81.5909090909091,4
+MATHEMATICAL DISRESPECT,Lil Mabu,14,27.928571428571427,86.5,4
+Bad Blood (feat. Kendrick Lamar) (Taylor's Version),Taylor Swift,3,31.0,75.33333333333333,4
+This World's A Giant,Zach Bryan,3,23.0,64.66666666666667,4
+SWEET ★ HONEY ★ BUCKIIN',Beyoncé,2,41.5,71.0,4
+Red Leather,Future & Metro Boomin,2,40.0,71.0,4
+back to the moon,Gunna,2,27.5,71.0,4
+La Víctima,Xavi,73,24.78082191780822,94.91780821917808,4
+Snow On The Beach (feat. More Lana Del Rey),Taylor Swift,3,20.0,79.33333333333333,4
+"So Long, London",Taylor Swift,35,19.4,84.97142857142858,4
+No One Noticed (Extended English),The Marías,2,37.5,59.0,4
+Not Allowed,TV Girl,25,43.72,88.96,4
+Si Antes Te Hubiera Conocido,KAROL G,51,46.568627450980394,95.31372549019608,4
+Suicide Doors,Lil Uzi Vert,3,7.0,79.33333333333333,4
+Flowers,Miley Cyrus,76,29.157894736842106,91.13157894736842,4
+Florida!!! (feat. Florence + The Machine),Taylor Swift,28,20.357142857142858,84.17857142857143,4
+Disco,Surf Curse,6,41.333333333333336,82.33333333333333,4
+Crush Em,Lil Uzi Vert,3,25.666666666666668,77.0,4
+The Alchemy,Taylor Swift,21,28.761904761904763,80.42857142857143,3
+WHATCHU KNO ABOUT ME (feat. Sexyy Red),GloRilla,12,33.416666666666664,78.25,3
+Amped,Lil Uzi Vert,2,23.5,75.5,3
+360,Charli xcx,43,34.04651162790697,87.69767441860465,3
+just like me,21 Savage,2,46.0,73.5,3
+Water,Tyla,52,31.423076923076923,94.36538461538461,3
+Clara Bow,Taylor Swift,13,29.46153846153846,78.61538461538461,3
+Should've Been A Cowboy,Toby Keith,5,27.4,77.6,3
+Surround Sound (feat. 21 Savage & Baby Tate),JID,109,25.495412844036696,92.1743119266055,3
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,44,36.09090909090909,87.18181818181819,3
+Out Of My Hands,Future & Metro Boomin,2,49.0,71.5,3
+Nonsense,Sabrina Carpenter,3,48.0,84.33333333333333,3
+TIL FURTHER NOTICE (feat. James Blake & 21 Savage),Travis Scott,6,27.5,85.83333333333333,3
+TOO FAST,Future,2,33.5,70.5,3
+LOOOVE (feat. Kid Cudi),Travis Scott,5,35.8,84.6,3
+Mechanical Bull,Zach Bryan,2,29.0,67.5,3
+Nakamura,Lil Uzi Vert,2,25.5,73.5,3
+Night Changes,One Direction,10,31.1,88.0,3
+Monster Mash,"Bobby ""Boris"" Pickett & The Crypt-Kickers",8,26.25,77.75,3
+My Boy Only Breaks His Favorite Toys,Taylor Swift,29,18.93103448275862,84.51724137931035,3
+"Mama, I’m Sorry",Lil Uzi Vert,2,29.5,73.5,3
+But Daddy I Love Him,Taylor Swift,33,21.181818181818183,83.66666666666667,3
+Disease,Lady Gaga,3,28.666666666666668,75.0,3
+The Smallest Man Who Ever Lived,Taylor Swift,28,26.785714285714285,80.03571428571429,3
+Big Foot,Nicki Minaj,2,16.5,73.5,3
+SKITZO (feat. Young Thug),Travis Scott,5,24.2,85.8,3
+DESERT EAGLE,Beyoncé,2,35.5,46.5,3
+SLUT ME OUT,NLE Choppa,33,36.54545454545455,76.03030303030303,3
+Spin Again,Lil Uzi Vert,2,25.5,74.5,3
+SKI,Future,2,29.0,70.5,3
+KING,Kanye West & Ty Dolla $ign,2,41.5,76.5,3
+OH LOUISIANA,Beyoncé,2,38.5,46.5,3
+Last Christmas - Single Version,Wham!,63,19.666666666666668,79.76190476190476,3
+LALA,Myke Towers,49,38.02040816326531,98.6938775510204,3
+Corazón de Piedra,Xavi,8,45.5,88.25,3
+II HANDS II HEAVEN,Beyoncé,2,39.0,45.5,3
+see the real,21 Savage,2,39.0,74.5,3
+Heartless,Kanye West,55,43.38181818181818,90.23636363636363,3
+MODERN JAM (feat. Teezo Touchdown),Travis Scott,6,20.666666666666668,88.16666666666667,2
+MELTDOWN (feat. Drake),Travis Scott,86,22.0,92.5813953488372,2
+Whiskey Glasses,Morgan Wallen,9,46.22222222222222,85.33333333333333,2
+if u think i'm pretty,Artemas,6,47.833333333333336,85.33333333333333,2
+Please Come Home for Christmas - 2013 Remaster,Eagles,12,38.416666666666664,87.33333333333333,2
+Clouded,Brent Faiyaz,18,43.388888888888886,85.55555555555556,2
+Light Year (Practice),Lil Uzi Vert,2,29.0,69.0,2
+Sweet Dreams,Koe Wetzel,4,43.5,75.25,2
+CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),Travis Scott,5,28.6,86.2,2
+Diet Pepsi,Addison Rae,29,38.86206896551724,87.37931034482759,2
+Dark Red,Steve Lacy,27,45.851851851851855,89.62962962962963,2
+Fresh Out The Slammer,Taylor Swift,18,26.5,80.83333333333333,2
+"dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",Kendrick Lamar,2,7.5,81.0,2
+The Tortured Poets Department,Taylor Swift,28,22.857142857142858,84.96428571428571,2
+Feather,Sabrina Carpenter,120,34.68333333333333,90.53333333333333,2
+No Pole,Don Toliver,7,47.42857142857143,82.14285714285714,2
+Dreams - 2004 Remaster,Fleetwood Mac,12,44.0,88.66666666666667,2
+Mourning,Post Malone,11,29.181818181818183,73.9090909090909,2
+"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd & JENNIE & Lily-Rose Depp,53,30.41509433962264,96.01886792452831,2
+Jingle Bell Rock,Bobby Helms,54,13.74074074074074,87.18518518518519,2
+I Can Fix Him (No Really I Can),Taylor Swift,15,28.466666666666665,79.8,2
+Father Stretch My Hands Pt. 1,Kanye West,38,38.5,90.26315789473684,2
+GIRLS,The Kid LAROI,2,38.5,78.0,2
+Gata Only,FloyyMenor & Cris Mj,113,31.02654867256637,96.22123893805309,2
+DELRESTO (ECHOES) (feat. Beyoncé),Travis Scott,5,18.4,87.4,2
+Calm Down (with Selena Gomez),Rema,52,42.55769230769231,81.40384615384616,2
+As Good As I Once Was,Toby Keith,2,32.0,76.0,2
+Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,13,38.0,90.61538461538461,2
+Yeah! (feat. Lil Jon & Ludacris),USHER,8,30.5,88.5,2
+on one tonight,Gunna,3,48.666666666666664,81.33333333333333,2
+LOST FOREVER (feat. Westside Gunn),Travis Scott,4,34.25,84.25,2
+Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto & BTS,2,4.0,92.0,2
+Where the Wild Things Are,Luke Combs,46,43.67391304347826,84.26086956521739,1
+Cruel Summer,Taylor Swift,387,16.925064599483203,97.00258397932816,1
+"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,7,19.857142857142858,74.42857142857143,1
+golden hour,JVKE,40,43.1,90.3,1
+Thriller,Michael Jackson,5,25.2,73.6,1
+Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series),The Weeknd & Madonna,18,21.666666666666668,95.83333333333333,1
+Feel It - From The Original Series “Invincible”,d4vd,4,36.5,84.5,1
+Mr. Brightside,The Killers,3,33.0,86.66666666666667,1
+Deck The Hall,Nat King Cole,12,30.416666666666668,87.91666666666667,1
+TGIF,GloRilla,2,36.5,67.5,1
+New Jeans,NewJeans,3,34.666666666666664,88.33333333333333,1
+NEW DROP,Don Toliver,4,48.0,84.5,1
+NEL,Fuerza Regida,10,42.3,87.2,1
+My Boo,USHER,3,33.0,84.33333333333333,1
+The Kind of Love We Make,Luke Combs,7,47.42857142857143,83.57142857142857,1
+"Take Me Home, Country Roads",John Denver,2,42.0,78.5,1
+Trance (with Travis Scott & Young Thug),Metro Boomin,19,44.421052631578945,90.3157894736842,1
+BEST INTEREST,"Tyler, The Creator",3,44.333333333333336,82.33333333333333,1
+Lover,Taylor Swift,2,40.0,92.5,1
+Don’t Blame Me,Taylor Swift,6,46.833333333333336,91.33333333333333,1
+Thinkin Bout You,Frank Ocean,6,44.833333333333336,87.5,1
+Que Onda,Calle 24 & Chino Pacas & Fuerza Regida,56,44.589285714285715,93.92857142857143,1
+Rudolph The Red-Nosed Reindeer,Burl Ives,8,38.875,85.75,1
+Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series),The Weeknd & Playboi Carti & Madonna,3,29.666666666666668,86.66666666666667,1
+Ghostbusters,Ray Parker Jr.,5,26.6,72.6,1
+Heather,Conan Gray,2,45.0,88.5,1
+All Summer Long,Kid Rock,2,28.0,78.5,1
+Knee Deep (feat. Jimmy Buffett),Zac Brown Band,2,46.0,77.5,1
+KEHLANI,Jordan Adetunji,7,44.857142857142854,87.71428571428571,1
+Religiously,Bailey Zimmerman,67,33.88059701492537,85.26865671641791,1
+Karma,Taylor Swift,95,37.136842105263156,89.86315789473684,1
+PARASAIL (feat. Yung Lean & Dave Chappelle),Travis Scott,3,39.666666666666664,83.66666666666667,1
+Somebody's Watching Me - Single Version,Rockwell,3,19.333333333333332,78.33333333333333,1
+Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,40,38.675,90.225,1
+Christmas Time Is Here,Vince Guaraldi Trio,12,39.75,82.91666666666667,1
+As It Was,Harry Styles,92,33.71739130434783,92.78260869565217,1
+It's Getting Hot,NLE Choppa,2,48.0,79.5,1
+Femininomenon,Chappell Roan,12,43.166666666666664,84.41666666666667,1
+misses,Dominic Fike,2,47.5,85.0,0
+HUMBLE.,Kendrick Lamar,2,36.5,86.0,0
+HVN ON EARTH (with Kodak Black),Lil Tecca,1,41.0,31.0,0
+I might say something stupid featuring the 1975 & jon hopkins,Charli xcx,1,47.0,65.0,0
+"I swear, I Really Wanted To Make A ""Rap"" Album But This Is Literally The Way The Wind Blew Me This Time",André 3000,1,31.0,37.0,0
+I'm Shipping Up To Boston,Dropkick Murphys,1,48.0,74.0,0
+ANTHEM PART 3,blink-182,1,40.0,0.0,0
+Five Nights at Freddy's,The Living Tombstone,1,43.0,71.0,0
+57,KAROL G & Feid & DFZM,1,47.0,69.0,0
+(Don't Fear) The Reaper,Blue Öyster Cult,1,50.0,77.0,0
+(There's No Place Like) Home for the Holidays - 1959 Version,Perry Como,2,45.0,70.0,0
+stranger,Olivia Rodrigo,1,30.0,43.0,0
+Who Told You (feat. Drake),J Hus & Drake,1,31.0,77.0,0
+Area Codes,Kaliii,10,40.0,91.0,0
+scared of my guitar,Olivia Rodrigo,1,32.0,44.0,0
+3001,J. Cole,1,32.0,68.0,0
+World Tour (Aquafina),Juice WRLD,1,49.0,68.0,0
+Yeah Glo!,GloRilla,28,44.285714285714285,77.75,0
+You Should Probably Leave,Chris Stapleton,2,46.0,86.0,0
+Gucci Grocery Bag,Young Thug,1,36.0,69.0,0
+"yes, and?",Ariana Grande,43,15.581395348837209,91.34883720930233,0
+Guilty Conscience 2,Eminem,1,21.0,71.0,0
+Winter Wonderland - Spotify Singles Holiday,Laufey,4,39.75,87.0,0
+"Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti)",Young Thug,1,13.0,71.0,0
+Shake It Off,Taylor Swift,1,34.0,79.0,0
+She Calls Me Back (with Kacey Musgraves),Noah Kahan & Kacey Musgraves,1,46.0,31.0,0
+She Stank,Lil Uzi Vert,1,50.0,63.0,0
+Casual,Chappell Roan,81,41.75308641975309,85.9753086419753,0
+"Changes In Latitudes, Changes In Attitudes",Jimmy Buffett,1,50.0,58.0,0
+Chill Bae,Lil Uzi Vert,1,40.0,65.0,0
+Christmas (Baby Please Come Home),Mariah Carey,1,47.0,88.0,0
+Christmas Tree Farm,Taylor Swift,2,41.5,87.0,0
+El Gordo Trae El Mando,Chino Pacas,32,43.0625,91.6875,0
+Overcompensate,Twenty One Pilots,1,48.0,76.0,0
+PAPERWORK,¥$ & Kanye West & Ty Dolla $ign,1,41.0,0.0,0
+PLUTOSKI,Future,1,23.0,68.0,0
+PRC,Peso Pluma,1,45.0,56.0,0
+PRESS THE BUTTON,Future,1,50.0,66.0,0
+PROMOTION,¥$ & Kanye West & Ty Dolla $ign,1,48.0,0.0,0
+Paars In The Mars,Lil Uzi Vert,1,36.0,64.0,0
+Not An Option,Lil Uzi Vert,1,37.0,64.0,0
+"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",Bruce Springsteen,5,35.2,86.0,0
+Santa Claus Is Coming To Town,The Jackson 5,5,38.2,87.0,0
+"Santa, Can’t You Hear Me",Kelly Clarkson,4,45.25,87.0,0
+"Spooky, Scary Skeletons - Undead Tombstone Remix",Andrew Gold,2,17.5,77.0,0
+Si No Quieres No,Luis R Conriquez & Neton Vega,1,50.0,89.0,0
+Sign Me Up,Post Malone,1,44.0,44.0,0
+Skin and Bones,David Kushner,1,37.0,73.0,0
+CS,Lil Uzi Vert,1,27.0,20.0,0
+Call Your Friends,Rod Wave,1,33.0,0.0,0
+Call Your Mom,Noah Kahan,1,35.0,66.0,0
+Cars Bring Me Out (feat. Future),Young Thug,1,17.0,71.0,0
+Stealth Mode (feat. Bas),J. Cole,1,33.0,68.0,0
+Stickz N Stonez,J. Cole,2,33.0,69.0,0
+Super Freak,Rick James,1,35.0,76.0,0
+Snooze (Acoustic) (feat. Justin Bieber),SZA & Justin Bieber,1,36.0,0.0,0
+Of Course (Bonus Track),Lil Uzi Vert,1,45.0,68.0,0
+Fallin 4 U,Nicki Minaj,1,48.0,69.0,0
+Let Me Calm Down (feat. J. Cole),Nicki Minaj,1,42.0,70.0,0
+Like Crazy,Jimin,2,48.0,84.0,0
+Lil Boo Thang,Paul Russell,1,36.0,87.0,0
+Love in This Club (feat. Young Jeezy),USHER,1,42.0,78.0,0
+Drugs You Should Try It,Travis Scott,1,30.0,0.0,0
+Snowman,Sia,5,43.6,94.0,0
+Seen it All,Future & Metro Boomin,1,39.0,0.0,0
+Selfish,Justin Timberlake,2,44.0,73.0,0
+Cruel Summer - Live from TS | The Eras Tour,Taylor Swift,2,28.0,0.0,0
+Cupid - Twin Ver.,FIFTY FIFTY,71,25.746478873239436,98.19718309859155,0
+S91,KAROL G,1,23.0,50.0,0
+Novacandy,Post Malone,1,36.0,46.0,0
+OCEAN,Future,1,36.0,67.0,0
+Parade on Cleveland (feat. Drake),Young Thug,1,4.0,73.0,0
+Paul Revere,Noah Kahan,1,36.0,65.0,0
+Pelle Coat,Lil Durk,1,41.0,71.0,0
+DJ Got Us Fallin' In Love (feat. Pitbull),USHER,2,38.0,85.0,0
+DOS DÍAS,Tito Double P,9,48.0,88.0,0
+Hellcat Kenny (feat. Lil Uzi Vert),Young Thug,1,31.0,69.0,0
+Here Comes Santa Claus (Right Down Santa Claus Lane),Elvis Presley,3,49.333333333333336,85.0,0
+Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version,Gene Autry,4,36.25,86.0,0
+Hey Daddy (Daddy's Home),USHER,1,40.0,85.0,0
+GTA,Future & Metro Boomin,1,28.0,0.0,0
+Ghostbusters,Various Artists,1,13.0,78.0,0
+All The Stars (with SZA),Kendrick Lamar & SZA,1,46.0,87.0,0
+Joy To The World,Nat King Cole,4,39.25,86.0,0
+Fare Well,Hozier,1,35.0,37.0,0
+Rehab,Lil Uzi Vert,1,48.0,68.0,0
+Daylight,David Kushner,55,37.2,97.4,0
+Pi (feat. Daylyt & Ab-Soul),J. Cole,1,25.0,69.0,0
+I Ain't Worried,OneRepublic,3,45.666666666666664,95.0,0
+back at it,Gunna,1,44.0,67.0,0
+Let It Snow! Let It Snow! Let It Snow!,Dean Martin,42,15.523809523809524,90.4047619047619,0
+FE!N (feat. Playboi Carti),Travis Scott,231,31.6017316017316,91.85281385281385,0
+FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,8,23.5,58.0,0
+Fever,J. Cole,1,19.0,69.0,0
+Fire Alarm,Lil Uzi Vert,1,28.0,70.0,0
+KEYS TO MY LIFE,¥$ & Kanye West & Ty Dolla $ign,1,47.0,0.0,0
+LA DURANGO,Peso Pluma & Junior H & Eslabon Armado,1,42.0,70.0,0
+Favorite Song,Toosii,2,50.0,86.0,0
+Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,1,50.0,87.0,0
+Ain't No Sunshine,Bill Withers,1,49.0,86.0,0
+Mr Chow,Lil Uzi Vert,1,39.0,64.0,0
+Died and Came Back,Lil Uzi Vert,1,14.0,73.0,0
+On The Radar Freestyle,Drake & Central Cee,1,46.0,72.0,0
+Days Come and Go,Lil Uzi Vert,1,40.0,69.0,0
+Dead or Alive,Lil Tecca,1,47.0,30.0,0
+All Alone,Lil Uzi Vert,1,22.0,72.0,0
+Talking / Once Again,¥$ & Kanye West & Ty Dolla $ign,1,33.0,73.0,0
+Bloody Mary,Lady Gaga,1,32.0,73.0,0
+Boons,Zach Bryan,1,37.0,64.0,0
+Breaking News - skit,Eminem,1,31.0,69.0,0
+Brown Eyed Girl,Van Morrison,3,40.0,85.0,0
+"Your Needs, My Needs",Noah Kahan,1,47.0,64.0,0
+Yours,Post Malone,1,46.0,37.0,0
+You’re Gonna Go Far,Noah Kahan,1,39.0,65.0,0
+Memphis; The Blues (feat. John Moreland),Zach Bryan,1,46.0,63.0,0
+New Romantics,Taylor Swift,1,31.0,76.0,0
+New Year’s Day,Taylor Swift,1,39.0,77.0,0
+No Complaints,Noah Kahan,1,24.0,65.0,0
+Zoom (Bonus Track),Lil Uzi Vert,1,32.0,70.0,0
+Blank Space,Taylor Swift,21,37.142857142857146,82.95238095238095,0
+Blinding Lights,The Weeknd,1,46.0,92.0,0
+TOO MUCH,The Kid LAROI & Jung Kook & Central Cee,1,33.0,55.0,0
+TQG,KAROL G,1,50.0,96.0,0
+TV,Billie Eilish,1,50.0,81.0,0
+Take Two,BTS,1,17.0,83.0,0
+Talk talk featuring troye sivan,Charli xcx,1,48.0,63.0,0
+Talk talk featuring troye sivan,Charli xcx & Troye Sivan,1,46.0,72.0,0
+The Rush (feat. Big Time Rush),Lil Uzi Vert,1,33.0,65.0,0
+Psycho Killer - 2005 Remaster,Talking Heads,1,46.0,78.0,0
+LA PATRULLA,Peso Pluma,44,41.13636363636363,86.79545454545455,0
+"dodger blue (feat. wallie the sensei, roddy ricch, siete7x)",Kendrick Lamar,1,10.0,28.0,0
+"dodger blue (feat. wallie the sensei, siete7x, roddy ricch))",Kendrick Lamar,1,8.0,77.0,0
+Guess featuring billie eilish,Charli xcx & Billie Eilish,3,41.0,90.0,0
+How Do You Like Me Now?!,Toby Keith,1,19.0,72.0,0
+Danger (Spider) (Offset & JID),Metro Boomin,1,49.0,70.0,0
+Dawns (feat. Maggie Rogers),Zach Bryan & Maggie Rogers,4,49.5,84.0,0
+Out Of The Woods,Taylor Swift,1,41.0,72.0,0
+READY TO COOK UP,Future,1,26.0,68.0,0
+ROSA PASTEL,Peso Pluma,1,48.0,68.0,0
+Ready ‘24 (feat. Cam’ron),J. Cole,2,22.5,71.0,0
+Thick Of It (feat. Trippie Redd),KSI & Trippie Redd,2,48.0,75.0,0
+Temporary,Eminem,1,27.0,70.0,0
+That Fiya,Lil Uzi Vert,1,20.0,72.0,0
+The Addams Family,Andrew Gold,1,39.0,72.0,0
+Barbie Dangerous,Nicki Minaj,1,19.0,71.0,0
+love hotel,leftovermax,1,37.0,95.0,0
+Empire Now,Hozier,1,26.0,38.0,0
+Enchanted,Taylor Swift,1,35.0,83.0,0
+Disturbia,Rihanna,1,44.0,79.0,0
+Do They Know It's Christmas? - 1984 Version,Band Aid,4,41.5,89.0,0
+Do You Hear What I Hear? - Remastered 2006,Bing Crosby,2,48.0,83.0,0
+Doctor (Work It Out) [feat. Miley Cyrus],Pharrell Williams & Miley Cyrus,1,45.0,73.0,0
+Don't Understand,Post Malone,1,32.0,48.0,0
+Ma Meilleure Ennemie (from the series Arcane League of Legends),Stromae & Pomme & Arcane,1,36.0,77.0,0
+Beep Beep,Nicki Minaj,1,43.0,70.0,0
+Beer For My Horses,Toby Keith,1,18.0,74.0,0
+Belong Together,Mark Ambor,3,48.0,93.0,0
+Big Difference,Nicki Minaj,1,49.0,69.0,0
+This Christmas,Donny Hathaway,5,35.8,74.0,0
+Thriller - 2003 Edit,Michael Jackson,1,23.0,56.0,0
+BROTHER STONE (FEAT. KODAK BLACK),Don Toliver,1,46.0,0.0,0
+Baby Please,Ivan Cornejo,1,46.0,66.0,0
+"Baby, It's Cold Outside",Dean Martin,3,39.333333333333336,83.0,0
+The End (feat. BABYMETAL),Lil Uzi Vert,1,43.0,25.0,0
+Turks & Caicos (feat. 21 Savage),Rod Wave,1,43.0,66.0,0
+Two Faced,Linkin Park,1,46.0,69.0,0
+Tú Con Él,Rauw Alejandro,1,44.0,69.0,0
+UNA NOCHE EN MEDELLÍN - REMIX,KAROL G,1,40.0,56.0,0
+Una Velita,Bad Bunny,1,20.0,72.0,0
+Uncle M,Young Thug,1,38.0,69.0,0
+VULTURES,¥$ & Kanye West & Ty Dolla $ign,1,49.0,26.0,0
+Bad Habit,Steve Lacy,34,44.11764705882353,85.0,0
+Bad One,Eminem,1,35.0,69.0,0
+I Love This Bar,Toby Keith,1,44.0,70.0,0
+I Saw Mommy Kissing Santa Claus,The Jackson 5,3,43.666666666666664,83.0,0
+I Want a Hippopotamus for Christmas (Hippo the Hero),Gayla Peevey,3,44.333333333333336,83.0,0
+Meteor Man,Lil Uzi Vert,1,20.0,66.0,0
+Mistletoe And Holly - Remastered 1999,Frank Sinatra,2,50.0,81.0,0
+Mmhmm,BigXthaPlug,58,42.206896551724135,80.32758620689656,0
+Money On The Dresser,Young Thug,1,23.0,70.0,0
+girl i’ve always been,Olivia Rodrigo,1,29.0,44.0,0
+gloria (feat. sza),Kendrick Lamar,1,17.0,26.0,0
+Too Cool To Die,Post Malone,1,38.0,45.0,0
+Total Eclipse of the Heart,Bonnie Tyler,1,36.0,80.0,0
+Trae The Truth in Ibiza,J. Cole,1,34.0,67.0,0
+WTFYM,Future & Metro Boomin,1,40.0,0.0,0
+Wagon Wheel,Darius Rucker,2,41.0,83.0,0
+Want Me Dead (feat. 21 Savage),Young Thug,1,33.0,69.0,0
+Watch This - ARIZONATEARS Pluggnb Remix,Lil Uzi Vert & sped up nightcore & ARIZONATEARS,3,47.0,89.0,0
+We Found Love,Rihanna,1,38.0,85.0,0
+We Good,Lil Uzi Vert,1,14.0,67.0,0
+What Is This Feeling?,Wicked Movie Cast & Cynthia Erivo & Ariana Grande,1,45.0,73.0,0
+BEG FORGIVENESS,¥$ & Kanye West & Ty Dolla $ign,1,39.0,0.0,0
+Happy Holiday / The Holiday Season,Andy Williams,4,42.25,72.0,0
+Happy Xmas (War Is Over) - Remastered 2010,John Lennon,6,38.333333333333336,92.0,0
+Wick Man,Drake,1,21.0,0.0,0
+Wild Ones (feat. Jelly Roll),Jessie Murph & Jelly Roll,3,46.666666666666664,84.0,0
+Winter Wonderland - Remastered,Bing Crosby,3,46.666666666666664,74.0,0
+Popular,Wicked Movie Cast & Cynthia Erivo & Ariana Grande,1,44.0,75.0,0
+Rich Flex,Drake & 21 Savage,18,44.05555555555556,90.0,0
+Rich Girl,Daryl Hall & John Oates,2,35.0,83.0,0
+Road Rage,Eminem,1,23.0,71.0,0
+Rompe La Dompe,Peso Pluma & Junior H & Oscar Maydon,1,32.0,0.0,0
+Come Monday,Jimmy Buffett,1,44.0,59.0,0
+Creepin' (with The Weeknd & 21 Savage),Metro Boomin,55,36.70909090909091,95.92727272727272,0
+Princess Diana (with Nicki Minaj),Ice Spice & Nicki Minaj,2,49.0,87.0,0
+Have Yourself A Merry Little Christmas - Remastered 1999,Frank Sinatra,3,43.333333333333336,84.0,0
+Head Honcho,Eminem,1,29.0,69.0,0
+Aquí Te Espero,Ivan Cornejo,1,37.0,0.0,0
+Are You Gone Already,Nicki Minaj,1,18.0,72.0,0
+ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),Don Toliver,1,39.0,63.0,0
+Abracadabra (feat. Travis Scott),Young Thug,1,49.0,69.0,0
+Ain't No Love,Future & Metro Boomin,1,27.0,0.0,0
+Lucky Enough (Poem),Zach Bryan,1,31.0,64.0,0
+Lyft Em Up,Lil Uzi Vert,1,49.0,63.0,0
+M-E-X-I-C-O (Feat. Billy Strings),Post Malone,1,49.0,34.0,0
+Jennifer’s Body,Ken Carson,2,47.0,0.0,0
+Jimmy Cooks (feat. 21 Savage),Drake,86,44.24418604651163,89.3953488372093,0
+A Night To Remember,beabadoobee & Laufey,1,32.0,0.0,0
+we fell in love in october,girl in red,11,46.63636363636363,86.72727272727273,-1
+Chemical,Post Malone,26,38.96153846153846,90.0,-1
+Style,Taylor Swift,38,34.39473684210526,82.89473684210526,-1
+Sun to Me,Zach Bryan,82,44.207317073170735,83.9390243902439,-1
+Wasted On You,Morgan Wallen,193,34.740932642487046,86.56994818652849,-1
+WHERE SHE GOES,Bad Bunny,94,21.79787234042553,95.2872340425532,-1
+Lovers Rock,TV Girl,66,42.984848484848484,90.0,-1
+Moonlight,Kali Uchis,105,42.266666666666666,86.78095238095239,-1
+Lavender Haze,Taylor Swift,6,41.0,88.16666666666667,-1
+AMG,Natanael Cano & Peso Pluma & Gabito Ballesteros,34,33.05882352941177,94.23529411764706,-1
+El Azul,Junior H & Peso Pluma,70,30.84285714285714,94.92857142857143,-1
+Santa Tell Me,Ariana Grande,37,18.89189189189189,91.75675675675676,-1
+Sweater Weather,The Neighbourhood,183,37.24590163934426,90.93442622950819,-1
+Sure Thing,Miguel,16,43.625,90.875,-1
+cardigan,Taylor Swift,13,45.53846153846154,91.53846153846153,-1
+Romantic Homicide,d4vd,22,47.72727272727273,90.31818181818181,-1
+Money Trees,Kendrick Lamar,41,45.073170731707314,84.70731707317073,-1
+PRC,Peso Pluma & Natanael Cano,44,27.931818181818183,95.27272727272727,-1
+One Thing At A Time,Morgan Wallen,10,45.4,82.3,-1
+Party In The U.S.A.,Miley Cyrus,7,14.0,80.71428571428571,-1
+Por las Noches,Peso Pluma,41,35.146341463414636,92.82926829268293,-1
+Cowgirls (feat. ERNEST),Morgan Wallen,184,31.39673913043478,84.80978260869566,-1
+Pink + White,Frank Ocean,216,39.592592592592595,89.81018518518519,-2
+Evergreen,Richy Mitch & The Coal Miners,54,42.98148148148148,88.92592592592592,-2
+Anti-Hero,Taylor Swift,120,32.208333333333336,93.90833333333333,-2
+Scared To Start,Michael Marcagi,127,38.976377952755904,89.14173228346456,-2
+un x100to,Grupo Frontera & Bad Bunny,79,13.329113924050633,99.20253164556962,-2
+Heading South,Zach Bryan,212,40.60849056603774,84.80660377358491,-2
+Die For You,The Weeknd,35,43.97142857142857,91.02857142857142,-2
+No Role Modelz,J. Cole,271,34.49815498154982,90.5350553505535,-2
+Fortunate Son,Creedence Clearwater Revival,4,37.25,86.5,-3
+Fast Car,Luke Combs,183,20.666666666666668,90.24043715846994,-3
+American Kids,Kenny Chesney,3,43.666666666666664,78.0,-3
+You Proof,Morgan Wallen,301,32.584717607973424,84.66112956810632,-3
+Shut up My Moms Calling,Hotel Ugly,45,46.355555555555554,89.24444444444444,-3
+The Man He Sees in Me,Luke Combs,7,28.0,60.142857142857146,-3
+Born in the U.S.A.,Bruce Springsteen,4,17.75,77.75,-3
+When It Rains It Pours,Luke Combs,6,47.166666666666664,84.5,-3
+Something in the Orange,Zach Bryan,535,26.304672897196262,88.36635514018691,-3
+Austin (Boots Stop Workin'),Dasha,134,31.970149253731343,90.24626865671642,-4
+505,Arctic Monkeys,17,43.76470588235294,80.17647058823529,-4
+Thinkin’ Bout Me,Morgan Wallen,323,39.04643962848297,85.984520123839,-4
+See You Again (feat. Kali Uchis),"Tyler, The Creator",443,29.340857787810382,91.08352144469526,-4
+American Girl,Tom Petty and the Heartbreakers,4,22.5,75.0,-4
+Firework,Katy Perry,3,20.0,73.66666666666667,-4
+Ella Baila Sola,Eslabon Armado,170,18.96470588235294,89.67647058823529,-4
+Search & Rescue,Drake,84,31.0,90.16666666666667,-4
+august,Taylor Swift,39,30.641025641025642,91.7948717948718,-5
+La Bebe - Remix,Yng Lvcas & Peso Pluma,113,23.831858407079647,98.00884955752213,-5
+Sweet Home Alabama,Lynyrd Skynyrd,3,33.0,84.33333333333333,-5
+Chicken Fried,Zac Brown Band,4,24.5,82.25,-5
+Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,100,24.87,94.21,-5
+The Christmas Song (Merry Christmas To You),Nat King Cole,34,19.852941176470587,81.61764705882354,-6
+Dance The Night - From Barbie The Album,Dua Lipa,43,28.372093023255815,95.53488372093024,-6
+It's Five O'Clock Somewhere,Alan Jackson,2,24.0,66.0,-6
+American Pie,Don McLean,3,24.666666666666668,80.0,-6
+Snooze,SZA,281,30.483985765124554,91.87188612099644,-7
+Never Lose Me,Flo Milli,75,17.906666666666666,87.2,-7
+Overdrive,Post Malone,9,28.88888888888889,75.66666666666667,-8
+Last Night,Morgan Wallen,491,22.613034623217924,85.67413441955193,-8
+Kill Bill,SZA,247,22.91497975708502,92.25910931174089,-8
+The Emptiness Machine,Linkin Park,16,33.125,87.3125,-8
+Get It Sexyy,Sexyy Red,56,36.42857142857143,79.41071428571429,-9
+16 CARRIAGES,Beyoncé,10,26.0,64.5,-10
+Deeper Well,Kacey Musgraves,2,38.0,65.0,-10
+Just Wanna Rock,Lil Uzi Vert,32,40.0625,86.34375,-14
+From The Start,Laufey,24,44.833333333333336,82.125,-17
+Wind Up Missin’ You,Tucker Wetmore,13,46.07692307692308,71.6923076923077,-29
+TALKING,¥$ & Kanye West & Ty Dolla $ign,2,26.0,54.0,-50
+Demons,Doja Cat,8,37.375,68.625,-50

@@ -1,0 +1,4 @@
+chart_tier,observations,unique_songs,average_popularity,median_popularity,minimum_popularity,maximum_popularity,popularity_std,average_rank
+Top 10,5540,305,89.60722021660649,93.0,0,100,13.47053722113776,5.5
+Top 20,5540,482,87.58231046931408,89.0,0,100,11.65214254055962,15.5
+Top 50,16620,895,87.02412755716004,88.0,0,100,8.692206003326136,35.5
